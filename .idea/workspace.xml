@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c008bc63-dc05-486d-9da2-aee4a2d495b0" name="Default Changelist" comment="" />
+    <list default="true" id="c008bc63-dc05-486d-9da2-aee4a2d495b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typeidea/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +32,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -53,7 +63,8 @@
       <updated>1565599139917</updated>
       <workItem from="1565599141205" duration="401000" />
       <workItem from="1565599576062" duration="249000" />
-      <workItem from="1565599826131" duration="1980000" />
+      <workItem from="1565599826131" duration="2058000" />
+      <workItem from="1565603794165" duration="1585000" />
     </task>
     <servers />
   </component>
@@ -72,5 +83,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
